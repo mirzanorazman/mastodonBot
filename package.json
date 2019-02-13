@@ -1,0 +1,15 @@
+{
+  "name": "mastodonbot",
+  "version": "0.0.1",
+  "description": "Mastodon Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirza Nor Azman",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "mastodon-api": "^1.3.0"
+  }
+}
