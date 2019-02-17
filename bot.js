@@ -2,7 +2,7 @@ require('dotenv').config();
 const Mastodon = require('mastodon-api');
 const fs = require('fs');
 
-console.log("Mastodon Bot starting...");
+// console.log("Mastodon Bot starting...");
 
 const M = new Mastodon({
     client_key: process.env.CLIENT_KEY,
